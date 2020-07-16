@@ -1,0 +1,2 @@
+# Multiwii-for-Brushed-and-Brushless-quadcopter-and-Airplane
+The files in this repository contains complete PCB files, programming files and 3d printable files for a micro-brushed quadcopters and airplanes. This board can be used brushless multicopter too. It is all based in multiwii. The brushed motor quacopter's firmware is from electronoobs. My creation is the PCB(in Altium Designer) and the 3D files in Fusion 360.
